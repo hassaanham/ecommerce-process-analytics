@@ -1,0 +1,1001 @@
+order_id,category,warehouse,order_value,stock_issue
+ORD-0001,Accessories,Chicago,40.0,False
+ORD-0002,Lighting,Chicago,70.7,False
+ORD-0003,Accessories,Dallas,41.33,True
+ORD-0004,Home Decor,Dallas,146.97,False
+ORD-0005,Accessories,Atlanta,246.6,False
+ORD-0006,Home Decor,Chicago,181.42,False
+ORD-0007,Accessories,Atlanta,232.84,False
+ORD-0008,Accessories,Atlanta,112.27,False
+ORD-0009,Home Decor,Chicago,125.54,False
+ORD-0010,Lighting,Chicago,249.43,False
+ORD-0011,Accessories,Dallas,249.11,True
+ORD-0012,Accessories,Dallas,167.42,False
+ORD-0013,Home Decor,Dallas,229.9,False
+ORD-0014,Accessories,Dallas,231.25,False
+ORD-0015,Accessories,Dallas,38.11,True
+ORD-0016,Accessories,Dallas,141.36,False
+ORD-0017,Accessories,Dallas,105.89,False
+ORD-0018,Accessories,Dallas,165.15,False
+ORD-0019,Home Decor,Chicago,50.43,False
+ORD-0020,Accessories,Atlanta,117.42,False
+ORD-0021,Lighting,Atlanta,64.07,False
+ORD-0022,Accessories,Dallas,42.52,False
+ORD-0023,Accessories,Atlanta,69.16,False
+ORD-0024,Lighting,Chicago,200.17,True
+ORD-0025,Accessories,Atlanta,92.13,False
+ORD-0026,Home Decor,Atlanta,35.76,False
+ORD-0027,Home Decor,Atlanta,38.86,False
+ORD-0028,Accessories,Atlanta,50.1,False
+ORD-0029,Accessories,Dallas,143.66,False
+ORD-0030,Accessories,Dallas,89.58,False
+ORD-0031,Accessories,Atlanta,46.55,False
+ORD-0032,Home Decor,Atlanta,80.72,False
+ORD-0033,Lighting,Dallas,80.25,False
+ORD-0034,Accessories,Dallas,211.96,False
+ORD-0035,Accessories,Atlanta,68.32,True
+ORD-0036,Home Decor,Atlanta,233.87,False
+ORD-0037,Home Decor,Chicago,206.47,True
+ORD-0038,Lighting,Chicago,202.93,True
+ORD-0039,Home Decor,Chicago,167.54,False
+ORD-0040,Lighting,Atlanta,81.06,False
+ORD-0041,Home Decor,Atlanta,152.62,False
+ORD-0042,Lighting,Chicago,36.09,True
+ORD-0043,Accessories,Dallas,180.36,False
+ORD-0044,Accessories,Chicago,113.4,False
+ORD-0045,Home Decor,Dallas,128.83,False
+ORD-0046,Accessories,Chicago,74.02,False
+ORD-0047,Lighting,Chicago,152.4,True
+ORD-0048,Accessories,Atlanta,223.66,False
+ORD-0049,Lighting,Chicago,204.33,False
+ORD-0050,Accessories,Atlanta,136.1,False
+ORD-0051,Accessories,Dallas,139.9,False
+ORD-0052,Accessories,Chicago,73.19,True
+ORD-0053,Accessories,Chicago,228.11,True
+ORD-0054,Accessories,Atlanta,109.7,False
+ORD-0055,Lighting,Atlanta,97.31,False
+ORD-0056,Accessories,Dallas,172.49,False
+ORD-0057,Home Decor,Atlanta,97.63,False
+ORD-0058,Lighting,Dallas,35.78,False
+ORD-0059,Accessories,Chicago,173.98,False
+ORD-0060,Accessories,Chicago,198.89,False
+ORD-0061,Home Decor,Dallas,178.84,True
+ORD-0062,Accessories,Chicago,200.01,False
+ORD-0063,Lighting,Atlanta,240.98,False
+ORD-0064,Accessories,Dallas,131.2,False
+ORD-0065,Lighting,Atlanta,151.07,False
+ORD-0066,Accessories,Dallas,157.12,False
+ORD-0067,Lighting,Atlanta,168.56,False
+ORD-0068,Lighting,Dallas,191.57,True
+ORD-0069,Lighting,Dallas,62.58,False
+ORD-0070,Home Decor,Atlanta,64.65,False
+ORD-0071,Home Decor,Dallas,219.75,True
+ORD-0072,Lighting,Chicago,129.88,False
+ORD-0073,Home Decor,Dallas,77.08,False
+ORD-0074,Accessories,Dallas,247.71,False
+ORD-0075,Lighting,Atlanta,56.12,False
+ORD-0076,Home Decor,Atlanta,181.69,True
+ORD-0077,Lighting,Chicago,145.25,False
+ORD-0078,Accessories,Chicago,150.92,False
+ORD-0079,Lighting,Dallas,119.37,False
+ORD-0080,Lighting,Atlanta,81.99,True
+ORD-0081,Home Decor,Chicago,133.1,False
+ORD-0082,Home Decor,Dallas,237.39,False
+ORD-0083,Accessories,Chicago,247.27,False
+ORD-0084,Accessories,Atlanta,81.42,True
+ORD-0085,Home Decor,Dallas,146.69,False
+ORD-0086,Accessories,Dallas,184.82,False
+ORD-0087,Accessories,Atlanta,232.03,False
+ORD-0088,Accessories,Atlanta,136.78,False
+ORD-0089,Home Decor,Dallas,96.46,False
+ORD-0090,Accessories,Dallas,30.04,False
+ORD-0091,Accessories,Dallas,28.51,False
+ORD-0092,Accessories,Atlanta,220.31,True
+ORD-0093,Home Decor,Chicago,216.04,False
+ORD-0094,Accessories,Dallas,177.41,False
+ORD-0095,Lighting,Chicago,227.79,False
+ORD-0096,Home Decor,Dallas,59.1,False
+ORD-0097,Home Decor,Atlanta,78.41,False
+ORD-0098,Lighting,Atlanta,155.14,False
+ORD-0099,Accessories,Dallas,102.56,False
+ORD-0100,Lighting,Atlanta,31.28,False
+ORD-0101,Accessories,Atlanta,166.42,False
+ORD-0102,Accessories,Dallas,91.05,False
+ORD-0103,Lighting,Chicago,144.06,False
+ORD-0104,Lighting,Atlanta,220.19,False
+ORD-0105,Home Decor,Dallas,104.13,True
+ORD-0106,Lighting,Chicago,175.21,True
+ORD-0107,Lighting,Chicago,181.25,False
+ORD-0108,Accessories,Dallas,105.33,True
+ORD-0109,Accessories,Atlanta,132.55,False
+ORD-0110,Lighting,Dallas,244.9,False
+ORD-0111,Lighting,Chicago,157.34,False
+ORD-0112,Home Decor,Chicago,67.65,False
+ORD-0113,Home Decor,Chicago,77.65,True
+ORD-0114,Home Decor,Chicago,32.05,True
+ORD-0115,Accessories,Dallas,237.45,False
+ORD-0116,Home Decor,Atlanta,130.17,False
+ORD-0117,Lighting,Dallas,165.61,False
+ORD-0118,Accessories,Atlanta,181.41,False
+ORD-0119,Accessories,Atlanta,210.31,False
+ORD-0120,Lighting,Dallas,39.63,False
+ORD-0121,Lighting,Chicago,114.49,False
+ORD-0122,Accessories,Dallas,171.05,False
+ORD-0123,Home Decor,Chicago,149.02,False
+ORD-0124,Accessories,Atlanta,82.85,False
+ORD-0125,Lighting,Dallas,142.01,False
+ORD-0126,Lighting,Dallas,193.52,False
+ORD-0127,Home Decor,Atlanta,137.84,False
+ORD-0128,Lighting,Dallas,67.02,False
+ORD-0129,Home Decor,Chicago,142.49,False
+ORD-0130,Home Decor,Atlanta,125.74,False
+ORD-0131,Home Decor,Dallas,204.3,False
+ORD-0132,Accessories,Dallas,111.03,False
+ORD-0133,Lighting,Atlanta,100.36,False
+ORD-0134,Accessories,Atlanta,170.77,False
+ORD-0135,Home Decor,Atlanta,166.12,False
+ORD-0136,Accessories,Dallas,100.95,False
+ORD-0137,Home Decor,Dallas,108.43,True
+ORD-0138,Accessories,Atlanta,159.15,False
+ORD-0139,Accessories,Chicago,168.61,False
+ORD-0140,Home Decor,Chicago,109.11,False
+ORD-0141,Lighting,Atlanta,186.46,False
+ORD-0142,Accessories,Atlanta,180.65,False
+ORD-0143,Lighting,Chicago,210.66,False
+ORD-0144,Accessories,Atlanta,98.6,True
+ORD-0145,Lighting,Chicago,141.1,False
+ORD-0146,Accessories,Dallas,227.61,False
+ORD-0147,Accessories,Dallas,73.82,False
+ORD-0148,Home Decor,Dallas,196.97,False
+ORD-0149,Lighting,Atlanta,221.05,False
+ORD-0150,Accessories,Chicago,138.07,False
+ORD-0151,Lighting,Chicago,74.23,False
+ORD-0152,Home Decor,Dallas,231.0,False
+ORD-0153,Lighting,Atlanta,54.39,False
+ORD-0154,Accessories,Atlanta,125.14,True
+ORD-0155,Home Decor,Dallas,115.81,True
+ORD-0156,Accessories,Atlanta,147.45,False
+ORD-0157,Lighting,Dallas,43.84,False
+ORD-0158,Accessories,Atlanta,245.59,True
+ORD-0159,Lighting,Atlanta,92.59,True
+ORD-0160,Lighting,Atlanta,219.13,False
+ORD-0161,Lighting,Dallas,134.43,False
+ORD-0162,Accessories,Dallas,38.42,False
+ORD-0163,Accessories,Dallas,101.09,False
+ORD-0164,Lighting,Dallas,52.84,False
+ORD-0165,Accessories,Atlanta,159.17,True
+ORD-0166,Accessories,Dallas,77.41,False
+ORD-0167,Home Decor,Chicago,122.64,False
+ORD-0168,Accessories,Dallas,249.37,False
+ORD-0169,Accessories,Dallas,181.05,False
+ORD-0170,Home Decor,Dallas,204.84,True
+ORD-0171,Accessories,Chicago,209.37,True
+ORD-0172,Home Decor,Chicago,199.46,False
+ORD-0173,Accessories,Atlanta,55.19,False
+ORD-0174,Home Decor,Chicago,77.64,False
+ORD-0175,Accessories,Atlanta,153.55,False
+ORD-0176,Home Decor,Atlanta,38.68,False
+ORD-0177,Accessories,Atlanta,145.48,False
+ORD-0178,Accessories,Dallas,131.38,False
+ORD-0179,Home Decor,Dallas,105.22,False
+ORD-0180,Accessories,Chicago,108.35,False
+ORD-0181,Accessories,Dallas,249.07,False
+ORD-0182,Lighting,Dallas,84.71,False
+ORD-0183,Accessories,Atlanta,104.13,False
+ORD-0184,Lighting,Dallas,163.35,True
+ORD-0185,Accessories,Chicago,65.78,False
+ORD-0186,Accessories,Dallas,95.43,True
+ORD-0187,Accessories,Dallas,183.01,False
+ORD-0188,Lighting,Dallas,26.13,False
+ORD-0189,Lighting,Dallas,162.54,False
+ORD-0190,Lighting,Chicago,114.98,False
+ORD-0191,Home Decor,Dallas,149.0,False
+ORD-0192,Accessories,Dallas,185.81,False
+ORD-0193,Accessories,Atlanta,245.92,False
+ORD-0194,Lighting,Atlanta,48.03,False
+ORD-0195,Accessories,Atlanta,86.15,False
+ORD-0196,Accessories,Chicago,234.6,False
+ORD-0197,Accessories,Dallas,32.07,False
+ORD-0198,Lighting,Dallas,129.81,True
+ORD-0199,Home Decor,Dallas,235.43,False
+ORD-0200,Home Decor,Dallas,241.29,False
+ORD-0201,Lighting,Chicago,133.6,False
+ORD-0202,Home Decor,Atlanta,62.83,False
+ORD-0203,Accessories,Dallas,138.51,False
+ORD-0204,Home Decor,Dallas,193.36,False
+ORD-0205,Lighting,Dallas,177.8,False
+ORD-0206,Accessories,Dallas,124.65,False
+ORD-0207,Accessories,Dallas,193.59,False
+ORD-0208,Home Decor,Atlanta,136.26,False
+ORD-0209,Accessories,Atlanta,40.92,False
+ORD-0210,Accessories,Dallas,186.35,False
+ORD-0211,Lighting,Dallas,35.87,False
+ORD-0212,Lighting,Chicago,225.01,False
+ORD-0213,Lighting,Dallas,141.63,False
+ORD-0214,Accessories,Chicago,107.23,False
+ORD-0215,Home Decor,Chicago,171.85,False
+ORD-0216,Accessories,Chicago,30.17,True
+ORD-0217,Lighting,Chicago,152.51,False
+ORD-0218,Accessories,Atlanta,115.12,False
+ORD-0219,Lighting,Chicago,236.56,False
+ORD-0220,Accessories,Dallas,215.35,False
+ORD-0221,Lighting,Atlanta,78.65,False
+ORD-0222,Lighting,Atlanta,159.14,False
+ORD-0223,Home Decor,Chicago,96.58,False
+ORD-0224,Home Decor,Chicago,159.01,False
+ORD-0225,Home Decor,Dallas,137.95,False
+ORD-0226,Lighting,Dallas,70.89,False
+ORD-0227,Home Decor,Chicago,107.36,False
+ORD-0228,Home Decor,Dallas,125.99,False
+ORD-0229,Accessories,Dallas,27.78,False
+ORD-0230,Home Decor,Atlanta,124.88,True
+ORD-0231,Home Decor,Atlanta,114.61,False
+ORD-0232,Home Decor,Atlanta,236.13,False
+ORD-0233,Home Decor,Chicago,202.84,False
+ORD-0234,Home Decor,Dallas,248.09,False
+ORD-0235,Accessories,Chicago,134.97,False
+ORD-0236,Lighting,Atlanta,219.67,False
+ORD-0237,Accessories,Dallas,215.6,False
+ORD-0238,Home Decor,Chicago,75.31,False
+ORD-0239,Lighting,Atlanta,244.09,False
+ORD-0240,Home Decor,Chicago,197.92,False
+ORD-0241,Home Decor,Atlanta,176.33,False
+ORD-0242,Accessories,Dallas,165.8,False
+ORD-0243,Accessories,Dallas,123.23,True
+ORD-0244,Accessories,Atlanta,87.12,True
+ORD-0245,Lighting,Chicago,81.85,False
+ORD-0246,Lighting,Dallas,134.03,False
+ORD-0247,Accessories,Chicago,121.25,True
+ORD-0248,Lighting,Atlanta,87.03,True
+ORD-0249,Accessories,Atlanta,234.38,False
+ORD-0250,Home Decor,Atlanta,120.84,False
+ORD-0251,Lighting,Atlanta,55.45,False
+ORD-0252,Lighting,Dallas,201.87,False
+ORD-0253,Lighting,Atlanta,168.81,False
+ORD-0254,Home Decor,Atlanta,22.43,False
+ORD-0255,Lighting,Chicago,155.38,False
+ORD-0256,Accessories,Chicago,187.93,False
+ORD-0257,Lighting,Dallas,30.28,False
+ORD-0258,Accessories,Chicago,138.68,False
+ORD-0259,Accessories,Chicago,171.18,False
+ORD-0260,Lighting,Chicago,181.86,False
+ORD-0261,Home Decor,Atlanta,218.41,False
+ORD-0262,Accessories,Atlanta,59.68,False
+ORD-0263,Accessories,Atlanta,46.9,False
+ORD-0264,Lighting,Atlanta,231.41,False
+ORD-0265,Home Decor,Atlanta,238.92,False
+ORD-0266,Lighting,Chicago,122.09,False
+ORD-0267,Home Decor,Chicago,199.57,False
+ORD-0268,Accessories,Atlanta,247.91,False
+ORD-0269,Accessories,Chicago,76.93,False
+ORD-0270,Home Decor,Dallas,189.65,False
+ORD-0271,Accessories,Dallas,151.12,False
+ORD-0272,Accessories,Dallas,227.04,False
+ORD-0273,Home Decor,Chicago,219.2,False
+ORD-0274,Home Decor,Chicago,81.8,False
+ORD-0275,Lighting,Dallas,238.56,False
+ORD-0276,Lighting,Atlanta,34.57,False
+ORD-0277,Accessories,Dallas,216.06,False
+ORD-0278,Lighting,Atlanta,248.12,True
+ORD-0279,Lighting,Chicago,105.52,True
+ORD-0280,Accessories,Chicago,41.89,False
+ORD-0281,Home Decor,Dallas,217.88,False
+ORD-0282,Accessories,Chicago,88.83,False
+ORD-0283,Lighting,Chicago,54.82,True
+ORD-0284,Lighting,Atlanta,241.55,False
+ORD-0285,Lighting,Chicago,26.17,False
+ORD-0286,Accessories,Dallas,75.05,False
+ORD-0287,Lighting,Chicago,108.97,False
+ORD-0288,Accessories,Dallas,80.3,False
+ORD-0289,Home Decor,Chicago,112.52,False
+ORD-0290,Accessories,Atlanta,55.74,False
+ORD-0291,Lighting,Dallas,76.23,False
+ORD-0292,Lighting,Chicago,181.34,False
+ORD-0293,Home Decor,Dallas,81.82,False
+ORD-0294,Home Decor,Chicago,134.11,False
+ORD-0295,Accessories,Dallas,46.53,False
+ORD-0296,Accessories,Atlanta,61.16,False
+ORD-0297,Home Decor,Atlanta,93.59,False
+ORD-0298,Home Decor,Atlanta,239.44,False
+ORD-0299,Home Decor,Dallas,200.44,False
+ORD-0300,Accessories,Atlanta,145.71,False
+ORD-0301,Home Decor,Chicago,238.73,False
+ORD-0302,Home Decor,Atlanta,241.07,False
+ORD-0303,Home Decor,Atlanta,192.02,True
+ORD-0304,Accessories,Chicago,50.06,False
+ORD-0305,Lighting,Dallas,51.31,False
+ORD-0306,Accessories,Chicago,67.76,False
+ORD-0307,Lighting,Dallas,40.98,True
+ORD-0308,Home Decor,Dallas,146.53,True
+ORD-0309,Home Decor,Dallas,112.13,False
+ORD-0310,Accessories,Atlanta,168.58,True
+ORD-0311,Home Decor,Chicago,151.99,False
+ORD-0312,Accessories,Dallas,54.19,False
+ORD-0313,Accessories,Atlanta,108.09,False
+ORD-0314,Lighting,Chicago,184.08,False
+ORD-0315,Lighting,Atlanta,26.74,False
+ORD-0316,Lighting,Chicago,81.3,False
+ORD-0317,Accessories,Chicago,59.95,False
+ORD-0318,Home Decor,Atlanta,150.56,False
+ORD-0319,Home Decor,Atlanta,28.73,False
+ORD-0320,Home Decor,Chicago,60.82,True
+ORD-0321,Lighting,Chicago,105.93,False
+ORD-0322,Accessories,Dallas,132.06,False
+ORD-0323,Lighting,Chicago,90.57,False
+ORD-0324,Accessories,Dallas,27.45,False
+ORD-0325,Accessories,Dallas,74.74,False
+ORD-0326,Lighting,Chicago,68.23,False
+ORD-0327,Accessories,Chicago,58.26,False
+ORD-0328,Lighting,Dallas,123.8,False
+ORD-0329,Home Decor,Dallas,236.62,False
+ORD-0330,Home Decor,Dallas,32.32,False
+ORD-0331,Lighting,Chicago,42.06,False
+ORD-0332,Lighting,Atlanta,130.48,False
+ORD-0333,Home Decor,Chicago,128.32,False
+ORD-0334,Accessories,Dallas,126.96,False
+ORD-0335,Home Decor,Dallas,193.99,False
+ORD-0336,Home Decor,Atlanta,151.72,False
+ORD-0337,Home Decor,Dallas,246.03,False
+ORD-0338,Home Decor,Chicago,29.82,False
+ORD-0339,Home Decor,Atlanta,230.26,False
+ORD-0340,Home Decor,Chicago,200.91,False
+ORD-0341,Accessories,Atlanta,236.12,False
+ORD-0342,Home Decor,Atlanta,170.6,False
+ORD-0343,Accessories,Atlanta,111.03,False
+ORD-0344,Lighting,Atlanta,84.48,False
+ORD-0345,Lighting,Atlanta,187.62,False
+ORD-0346,Accessories,Atlanta,106.0,False
+ORD-0347,Home Decor,Atlanta,59.96,True
+ORD-0348,Home Decor,Chicago,136.18,False
+ORD-0349,Accessories,Chicago,146.81,False
+ORD-0350,Lighting,Chicago,199.36,False
+ORD-0351,Home Decor,Chicago,196.54,False
+ORD-0352,Home Decor,Dallas,242.42,False
+ORD-0353,Accessories,Dallas,111.35,False
+ORD-0354,Home Decor,Chicago,177.42,False
+ORD-0355,Lighting,Chicago,54.48,False
+ORD-0356,Home Decor,Chicago,170.74,False
+ORD-0357,Lighting,Dallas,177.85,False
+ORD-0358,Accessories,Dallas,128.28,False
+ORD-0359,Accessories,Dallas,71.37,False
+ORD-0360,Lighting,Dallas,237.19,False
+ORD-0361,Home Decor,Dallas,51.59,False
+ORD-0362,Home Decor,Dallas,96.5,False
+ORD-0363,Home Decor,Dallas,40.25,True
+ORD-0364,Accessories,Dallas,23.24,False
+ORD-0365,Lighting,Atlanta,108.22,False
+ORD-0366,Accessories,Dallas,224.23,False
+ORD-0367,Home Decor,Dallas,187.25,False
+ORD-0368,Home Decor,Chicago,221.61,False
+ORD-0369,Lighting,Atlanta,122.19,False
+ORD-0370,Home Decor,Atlanta,43.23,False
+ORD-0371,Accessories,Dallas,200.49,False
+ORD-0372,Lighting,Chicago,146.07,False
+ORD-0373,Home Decor,Atlanta,173.88,False
+ORD-0374,Home Decor,Chicago,80.75,True
+ORD-0375,Home Decor,Chicago,46.66,False
+ORD-0376,Home Decor,Chicago,222.05,False
+ORD-0377,Home Decor,Dallas,203.98,False
+ORD-0378,Accessories,Chicago,155.87,False
+ORD-0379,Accessories,Atlanta,187.27,False
+ORD-0380,Home Decor,Dallas,196.53,True
+ORD-0381,Accessories,Atlanta,41.91,False
+ORD-0382,Accessories,Atlanta,247.19,False
+ORD-0383,Home Decor,Chicago,133.08,False
+ORD-0384,Home Decor,Dallas,123.06,True
+ORD-0385,Lighting,Dallas,202.11,False
+ORD-0386,Accessories,Atlanta,32.48,False
+ORD-0387,Home Decor,Dallas,171.55,False
+ORD-0388,Home Decor,Dallas,133.26,False
+ORD-0389,Accessories,Atlanta,199.73,True
+ORD-0390,Accessories,Dallas,171.45,False
+ORD-0391,Accessories,Chicago,199.65,True
+ORD-0392,Home Decor,Atlanta,135.95,False
+ORD-0393,Lighting,Dallas,114.93,False
+ORD-0394,Accessories,Atlanta,69.99,False
+ORD-0395,Home Decor,Atlanta,60.9,False
+ORD-0396,Accessories,Atlanta,183.33,False
+ORD-0397,Accessories,Atlanta,107.6,False
+ORD-0398,Home Decor,Atlanta,34.27,False
+ORD-0399,Lighting,Chicago,149.09,True
+ORD-0400,Home Decor,Atlanta,240.04,False
+ORD-0401,Accessories,Dallas,165.77,True
+ORD-0402,Accessories,Atlanta,123.23,False
+ORD-0403,Accessories,Chicago,57.01,False
+ORD-0404,Lighting,Chicago,161.59,False
+ORD-0405,Accessories,Dallas,35.68,False
+ORD-0406,Accessories,Chicago,102.98,False
+ORD-0407,Home Decor,Atlanta,122.5,False
+ORD-0408,Accessories,Atlanta,46.08,False
+ORD-0409,Lighting,Atlanta,169.85,True
+ORD-0410,Lighting,Atlanta,197.92,False
+ORD-0411,Accessories,Dallas,36.59,False
+ORD-0412,Accessories,Chicago,36.2,False
+ORD-0413,Home Decor,Dallas,185.67,False
+ORD-0414,Home Decor,Atlanta,89.31,False
+ORD-0415,Home Decor,Dallas,109.93,False
+ORD-0416,Accessories,Dallas,147.31,True
+ORD-0417,Accessories,Chicago,227.82,True
+ORD-0418,Lighting,Chicago,61.71,False
+ORD-0419,Accessories,Chicago,35.49,False
+ORD-0420,Home Decor,Chicago,162.49,False
+ORD-0421,Home Decor,Dallas,240.49,False
+ORD-0422,Home Decor,Chicago,176.3,False
+ORD-0423,Lighting,Dallas,52.2,False
+ORD-0424,Accessories,Chicago,27.17,False
+ORD-0425,Accessories,Atlanta,128.58,False
+ORD-0426,Home Decor,Dallas,103.69,False
+ORD-0427,Home Decor,Atlanta,56.62,False
+ORD-0428,Accessories,Atlanta,132.16,False
+ORD-0429,Home Decor,Dallas,245.54,True
+ORD-0430,Lighting,Chicago,107.06,False
+ORD-0431,Accessories,Atlanta,99.36,True
+ORD-0432,Lighting,Atlanta,56.19,False
+ORD-0433,Accessories,Atlanta,130.17,False
+ORD-0434,Accessories,Chicago,137.91,False
+ORD-0435,Accessories,Chicago,24.28,False
+ORD-0436,Accessories,Atlanta,59.23,False
+ORD-0437,Lighting,Atlanta,232.14,False
+ORD-0438,Accessories,Atlanta,177.4,False
+ORD-0439,Home Decor,Atlanta,47.03,False
+ORD-0440,Lighting,Atlanta,105.19,False
+ORD-0441,Home Decor,Atlanta,190.52,False
+ORD-0442,Accessories,Atlanta,113.99,True
+ORD-0443,Home Decor,Chicago,178.19,False
+ORD-0444,Lighting,Dallas,176.54,False
+ORD-0445,Home Decor,Dallas,198.06,False
+ORD-0446,Lighting,Atlanta,136.92,False
+ORD-0447,Lighting,Atlanta,128.48,False
+ORD-0448,Accessories,Dallas,170.92,False
+ORD-0449,Lighting,Atlanta,139.18,True
+ORD-0450,Home Decor,Chicago,170.65,False
+ORD-0451,Home Decor,Chicago,181.83,False
+ORD-0452,Home Decor,Atlanta,159.46,False
+ORD-0453,Home Decor,Dallas,237.81,False
+ORD-0454,Accessories,Dallas,194.22,False
+ORD-0455,Lighting,Atlanta,175.69,False
+ORD-0456,Home Decor,Dallas,208.85,False
+ORD-0457,Home Decor,Atlanta,177.11,False
+ORD-0458,Home Decor,Dallas,101.89,False
+ORD-0459,Home Decor,Chicago,29.72,False
+ORD-0460,Lighting,Dallas,84.46,False
+ORD-0461,Home Decor,Atlanta,217.89,False
+ORD-0462,Home Decor,Dallas,94.85,False
+ORD-0463,Accessories,Dallas,116.39,False
+ORD-0464,Lighting,Dallas,74.24,False
+ORD-0465,Lighting,Dallas,165.05,False
+ORD-0466,Accessories,Atlanta,57.57,False
+ORD-0467,Home Decor,Dallas,79.27,False
+ORD-0468,Home Decor,Dallas,199.47,False
+ORD-0469,Lighting,Dallas,58.54,False
+ORD-0470,Lighting,Dallas,81.52,False
+ORD-0471,Accessories,Dallas,62.29,False
+ORD-0472,Home Decor,Chicago,43.69,False
+ORD-0473,Home Decor,Dallas,223.66,True
+ORD-0474,Lighting,Chicago,217.88,False
+ORD-0475,Lighting,Dallas,165.14,False
+ORD-0476,Accessories,Atlanta,40.6,False
+ORD-0477,Lighting,Dallas,178.19,False
+ORD-0478,Lighting,Dallas,120.53,False
+ORD-0479,Home Decor,Chicago,138.82,False
+ORD-0480,Accessories,Atlanta,61.95,False
+ORD-0481,Lighting,Chicago,143.04,False
+ORD-0482,Home Decor,Chicago,116.66,True
+ORD-0483,Lighting,Dallas,128.13,False
+ORD-0484,Home Decor,Dallas,189.65,False
+ORD-0485,Home Decor,Chicago,91.79,False
+ORD-0486,Lighting,Chicago,218.64,True
+ORD-0487,Home Decor,Chicago,75.91,False
+ORD-0488,Home Decor,Atlanta,41.02,False
+ORD-0489,Accessories,Dallas,73.52,False
+ORD-0490,Accessories,Atlanta,50.99,False
+ORD-0491,Home Decor,Dallas,127.73,False
+ORD-0492,Accessories,Atlanta,198.46,False
+ORD-0493,Accessories,Dallas,242.45,False
+ORD-0494,Lighting,Chicago,140.34,False
+ORD-0495,Home Decor,Chicago,167.6,False
+ORD-0496,Lighting,Atlanta,231.84,False
+ORD-0497,Accessories,Dallas,209.07,False
+ORD-0498,Accessories,Chicago,240.93,False
+ORD-0499,Home Decor,Chicago,61.15,False
+ORD-0500,Accessories,Atlanta,58.37,True
+ORD-0501,Home Decor,Atlanta,92.49,False
+ORD-0502,Lighting,Dallas,191.25,False
+ORD-0503,Lighting,Dallas,69.41,True
+ORD-0504,Lighting,Chicago,41.69,False
+ORD-0505,Lighting,Dallas,70.01,False
+ORD-0506,Home Decor,Atlanta,41.93,False
+ORD-0507,Accessories,Dallas,119.89,False
+ORD-0508,Home Decor,Chicago,140.61,False
+ORD-0509,Lighting,Atlanta,193.15,False
+ORD-0510,Accessories,Atlanta,191.42,False
+ORD-0511,Accessories,Dallas,110.92,False
+ORD-0512,Accessories,Chicago,177.49,False
+ORD-0513,Accessories,Chicago,197.03,False
+ORD-0514,Home Decor,Dallas,105.98,False
+ORD-0515,Accessories,Chicago,179.57,True
+ORD-0516,Home Decor,Dallas,187.88,True
+ORD-0517,Home Decor,Atlanta,201.51,True
+ORD-0518,Accessories,Dallas,218.78,False
+ORD-0519,Home Decor,Dallas,219.36,False
+ORD-0520,Accessories,Chicago,141.77,False
+ORD-0521,Lighting,Dallas,206.74,False
+ORD-0522,Accessories,Dallas,226.35,False
+ORD-0523,Accessories,Chicago,75.28,False
+ORD-0524,Home Decor,Dallas,204.02,False
+ORD-0525,Home Decor,Dallas,149.91,False
+ORD-0526,Home Decor,Dallas,93.3,False
+ORD-0527,Lighting,Dallas,26.03,False
+ORD-0528,Accessories,Atlanta,178.27,False
+ORD-0529,Lighting,Chicago,64.45,False
+ORD-0530,Home Decor,Dallas,60.73,False
+ORD-0531,Lighting,Atlanta,107.49,False
+ORD-0532,Lighting,Dallas,221.89,False
+ORD-0533,Home Decor,Atlanta,63.67,False
+ORD-0534,Lighting,Dallas,126.62,False
+ORD-0535,Accessories,Dallas,94.4,False
+ORD-0536,Home Decor,Chicago,169.17,False
+ORD-0537,Accessories,Chicago,201.95,True
+ORD-0538,Accessories,Atlanta,171.69,False
+ORD-0539,Home Decor,Chicago,122.64,False
+ORD-0540,Accessories,Chicago,145.01,True
+ORD-0541,Home Decor,Atlanta,158.02,False
+ORD-0542,Home Decor,Atlanta,100.27,False
+ORD-0543,Home Decor,Chicago,61.0,False
+ORD-0544,Accessories,Dallas,234.24,False
+ORD-0545,Home Decor,Dallas,48.07,False
+ORD-0546,Lighting,Dallas,131.24,False
+ORD-0547,Accessories,Atlanta,248.86,False
+ORD-0548,Lighting,Chicago,86.81,False
+ORD-0549,Home Decor,Chicago,115.37,False
+ORD-0550,Home Decor,Dallas,89.07,False
+ORD-0551,Accessories,Dallas,211.78,True
+ORD-0552,Accessories,Dallas,97.08,False
+ORD-0553,Lighting,Atlanta,96.3,False
+ORD-0554,Lighting,Chicago,109.6,False
+ORD-0555,Accessories,Chicago,134.32,False
+ORD-0556,Home Decor,Dallas,230.07,False
+ORD-0557,Lighting,Atlanta,198.37,False
+ORD-0558,Home Decor,Chicago,140.14,False
+ORD-0559,Home Decor,Dallas,171.57,False
+ORD-0560,Lighting,Chicago,121.46,False
+ORD-0561,Home Decor,Dallas,93.25,False
+ORD-0562,Home Decor,Atlanta,31.67,False
+ORD-0563,Home Decor,Dallas,178.73,True
+ORD-0564,Lighting,Atlanta,195.82,False
+ORD-0565,Accessories,Chicago,196.29,False
+ORD-0566,Lighting,Chicago,217.98,True
+ORD-0567,Lighting,Dallas,113.31,True
+ORD-0568,Accessories,Chicago,162.8,False
+ORD-0569,Accessories,Chicago,120.13,False
+ORD-0570,Lighting,Atlanta,157.1,False
+ORD-0571,Lighting,Atlanta,208.57,False
+ORD-0572,Lighting,Dallas,124.18,True
+ORD-0573,Lighting,Dallas,235.44,False
+ORD-0574,Accessories,Dallas,32.22,True
+ORD-0575,Accessories,Atlanta,183.71,True
+ORD-0576,Lighting,Dallas,86.35,False
+ORD-0577,Accessories,Chicago,39.47,True
+ORD-0578,Accessories,Dallas,208.62,False
+ORD-0579,Lighting,Dallas,152.56,False
+ORD-0580,Home Decor,Chicago,188.2,False
+ORD-0581,Lighting,Dallas,144.02,False
+ORD-0582,Accessories,Dallas,96.25,False
+ORD-0583,Lighting,Dallas,31.87,True
+ORD-0584,Lighting,Atlanta,84.62,False
+ORD-0585,Lighting,Chicago,199.98,False
+ORD-0586,Home Decor,Dallas,212.65,False
+ORD-0587,Lighting,Dallas,46.68,False
+ORD-0588,Home Decor,Dallas,129.16,False
+ORD-0589,Home Decor,Atlanta,29.43,True
+ORD-0590,Accessories,Atlanta,42.6,False
+ORD-0591,Accessories,Atlanta,97.6,False
+ORD-0592,Accessories,Chicago,100.85,True
+ORD-0593,Accessories,Dallas,48.01,True
+ORD-0594,Home Decor,Chicago,180.0,True
+ORD-0595,Lighting,Dallas,94.38,False
+ORD-0596,Home Decor,Chicago,35.96,True
+ORD-0597,Home Decor,Atlanta,44.44,False
+ORD-0598,Lighting,Atlanta,20.2,True
+ORD-0599,Home Decor,Atlanta,197.33,False
+ORD-0600,Lighting,Dallas,47.88,False
+ORD-0601,Accessories,Dallas,98.21,False
+ORD-0602,Lighting,Dallas,102.63,False
+ORD-0603,Home Decor,Atlanta,109.42,False
+ORD-0604,Accessories,Atlanta,32.89,False
+ORD-0605,Accessories,Chicago,143.41,False
+ORD-0606,Accessories,Atlanta,75.82,True
+ORD-0607,Accessories,Chicago,212.13,False
+ORD-0608,Home Decor,Chicago,212.26,False
+ORD-0609,Accessories,Atlanta,30.48,True
+ORD-0610,Home Decor,Dallas,153.86,False
+ORD-0611,Home Decor,Chicago,21.66,False
+ORD-0612,Home Decor,Atlanta,67.42,False
+ORD-0613,Accessories,Dallas,238.57,False
+ORD-0614,Accessories,Dallas,144.14,True
+ORD-0615,Home Decor,Dallas,129.11,False
+ORD-0616,Home Decor,Chicago,194.43,True
+ORD-0617,Home Decor,Chicago,225.87,False
+ORD-0618,Accessories,Dallas,42.55,False
+ORD-0619,Accessories,Dallas,233.41,False
+ORD-0620,Lighting,Chicago,33.72,True
+ORD-0621,Home Decor,Chicago,201.6,False
+ORD-0622,Accessories,Atlanta,218.31,False
+ORD-0623,Home Decor,Atlanta,119.88,False
+ORD-0624,Home Decor,Atlanta,188.7,False
+ORD-0625,Accessories,Chicago,39.11,False
+ORD-0626,Home Decor,Atlanta,130.35,False
+ORD-0627,Lighting,Chicago,113.23,False
+ORD-0628,Lighting,Atlanta,117.96,False
+ORD-0629,Lighting,Atlanta,32.61,False
+ORD-0630,Accessories,Dallas,183.15,True
+ORD-0631,Home Decor,Chicago,240.59,False
+ORD-0632,Home Decor,Atlanta,105.75,False
+ORD-0633,Lighting,Dallas,174.86,False
+ORD-0634,Accessories,Chicago,37.7,False
+ORD-0635,Home Decor,Dallas,234.3,True
+ORD-0636,Lighting,Dallas,97.25,False
+ORD-0637,Accessories,Dallas,150.47,False
+ORD-0638,Lighting,Chicago,239.93,False
+ORD-0639,Accessories,Chicago,55.3,False
+ORD-0640,Home Decor,Chicago,173.08,False
+ORD-0641,Lighting,Chicago,53.44,False
+ORD-0642,Lighting,Dallas,193.46,False
+ORD-0643,Accessories,Atlanta,227.04,False
+ORD-0644,Home Decor,Atlanta,32.66,False
+ORD-0645,Accessories,Chicago,122.46,False
+ORD-0646,Accessories,Chicago,173.36,False
+ORD-0647,Lighting,Chicago,149.04,False
+ORD-0648,Home Decor,Atlanta,226.48,False
+ORD-0649,Accessories,Dallas,35.21,False
+ORD-0650,Accessories,Dallas,51.49,False
+ORD-0651,Home Decor,Dallas,71.64,False
+ORD-0652,Home Decor,Chicago,115.95,False
+ORD-0653,Lighting,Atlanta,120.3,True
+ORD-0654,Lighting,Atlanta,153.78,False
+ORD-0655,Home Decor,Dallas,31.2,False
+ORD-0656,Lighting,Atlanta,92.73,True
+ORD-0657,Accessories,Dallas,84.73,False
+ORD-0658,Lighting,Dallas,211.23,False
+ORD-0659,Accessories,Atlanta,50.18,False
+ORD-0660,Home Decor,Dallas,59.61,False
+ORD-0661,Lighting,Chicago,117.71,True
+ORD-0662,Home Decor,Chicago,156.43,False
+ORD-0663,Lighting,Chicago,66.01,True
+ORD-0664,Accessories,Dallas,160.98,True
+ORD-0665,Accessories,Atlanta,59.51,False
+ORD-0666,Accessories,Chicago,121.12,True
+ORD-0667,Home Decor,Chicago,92.28,False
+ORD-0668,Lighting,Chicago,108.5,False
+ORD-0669,Lighting,Atlanta,217.06,False
+ORD-0670,Lighting,Atlanta,110.81,True
+ORD-0671,Accessories,Atlanta,66.06,False
+ORD-0672,Lighting,Chicago,204.23,False
+ORD-0673,Lighting,Dallas,134.37,False
+ORD-0674,Accessories,Chicago,159.05,False
+ORD-0675,Lighting,Chicago,87.52,False
+ORD-0676,Lighting,Dallas,47.4,False
+ORD-0677,Lighting,Dallas,119.06,False
+ORD-0678,Lighting,Atlanta,149.32,False
+ORD-0679,Home Decor,Atlanta,85.42,False
+ORD-0680,Home Decor,Chicago,107.53,True
+ORD-0681,Lighting,Dallas,90.13,False
+ORD-0682,Lighting,Chicago,180.07,False
+ORD-0683,Accessories,Chicago,175.28,False
+ORD-0684,Lighting,Dallas,201.04,False
+ORD-0685,Accessories,Chicago,214.16,True
+ORD-0686,Home Decor,Atlanta,89.42,True
+ORD-0687,Lighting,Dallas,164.4,False
+ORD-0688,Accessories,Chicago,142.53,False
+ORD-0689,Accessories,Dallas,196.07,False
+ORD-0690,Lighting,Dallas,158.28,False
+ORD-0691,Lighting,Chicago,168.79,False
+ORD-0692,Home Decor,Chicago,241.67,True
+ORD-0693,Lighting,Chicago,174.48,False
+ORD-0694,Home Decor,Dallas,210.67,False
+ORD-0695,Accessories,Dallas,191.11,True
+ORD-0696,Lighting,Chicago,106.18,False
+ORD-0697,Home Decor,Dallas,104.58,False
+ORD-0698,Lighting,Chicago,75.13,False
+ORD-0699,Accessories,Dallas,109.35,False
+ORD-0700,Lighting,Dallas,206.82,False
+ORD-0701,Accessories,Dallas,96.53,False
+ORD-0702,Lighting,Chicago,124.25,False
+ORD-0703,Home Decor,Chicago,90.28,False
+ORD-0704,Accessories,Chicago,156.62,False
+ORD-0705,Lighting,Dallas,104.55,False
+ORD-0706,Lighting,Dallas,244.05,False
+ORD-0707,Home Decor,Dallas,237.87,False
+ORD-0708,Home Decor,Chicago,184.12,False
+ORD-0709,Home Decor,Dallas,175.75,False
+ORD-0710,Lighting,Chicago,125.38,True
+ORD-0711,Home Decor,Dallas,78.93,False
+ORD-0712,Home Decor,Atlanta,242.46,False
+ORD-0713,Accessories,Atlanta,242.65,True
+ORD-0714,Accessories,Chicago,92.98,False
+ORD-0715,Accessories,Dallas,85.07,True
+ORD-0716,Lighting,Atlanta,238.51,False
+ORD-0717,Accessories,Atlanta,57.62,False
+ORD-0718,Lighting,Dallas,219.38,False
+ORD-0719,Home Decor,Dallas,154.71,False
+ORD-0720,Accessories,Chicago,224.09,False
+ORD-0721,Home Decor,Dallas,182.77,True
+ORD-0722,Lighting,Dallas,188.89,False
+ORD-0723,Accessories,Chicago,107.72,True
+ORD-0724,Lighting,Dallas,193.09,False
+ORD-0725,Accessories,Chicago,50.2,False
+ORD-0726,Accessories,Chicago,117.31,False
+ORD-0727,Lighting,Dallas,55.67,False
+ORD-0728,Lighting,Atlanta,49.39,False
+ORD-0729,Lighting,Chicago,41.73,False
+ORD-0730,Accessories,Atlanta,172.16,False
+ORD-0731,Home Decor,Chicago,123.49,True
+ORD-0732,Lighting,Dallas,142.91,False
+ORD-0733,Home Decor,Dallas,131.95,False
+ORD-0734,Accessories,Atlanta,23.19,False
+ORD-0735,Home Decor,Chicago,163.99,False
+ORD-0736,Accessories,Chicago,189.92,False
+ORD-0737,Lighting,Dallas,164.99,False
+ORD-0738,Accessories,Dallas,131.8,False
+ORD-0739,Accessories,Atlanta,117.06,False
+ORD-0740,Lighting,Atlanta,180.43,False
+ORD-0741,Home Decor,Chicago,98.01,False
+ORD-0742,Accessories,Atlanta,188.95,True
+ORD-0743,Lighting,Chicago,43.21,False
+ORD-0744,Lighting,Dallas,225.73,False
+ORD-0745,Home Decor,Chicago,196.96,True
+ORD-0746,Accessories,Dallas,203.77,False
+ORD-0747,Home Decor,Chicago,58.42,False
+ORD-0748,Home Decor,Chicago,42.84,False
+ORD-0749,Accessories,Dallas,98.5,True
+ORD-0750,Accessories,Chicago,193.31,False
+ORD-0751,Lighting,Chicago,237.06,False
+ORD-0752,Lighting,Chicago,119.84,False
+ORD-0753,Lighting,Chicago,139.55,False
+ORD-0754,Lighting,Dallas,141.39,False
+ORD-0755,Home Decor,Atlanta,99.41,False
+ORD-0756,Accessories,Dallas,139.71,False
+ORD-0757,Accessories,Dallas,144.18,False
+ORD-0758,Lighting,Chicago,136.72,False
+ORD-0759,Home Decor,Chicago,74.3,False
+ORD-0760,Accessories,Atlanta,85.44,False
+ORD-0761,Accessories,Atlanta,209.25,False
+ORD-0762,Lighting,Dallas,104.94,False
+ORD-0763,Accessories,Dallas,234.14,False
+ORD-0764,Lighting,Atlanta,218.55,False
+ORD-0765,Home Decor,Atlanta,158.37,False
+ORD-0766,Lighting,Chicago,131.76,False
+ORD-0767,Home Decor,Chicago,190.12,False
+ORD-0768,Home Decor,Chicago,106.78,True
+ORD-0769,Accessories,Atlanta,40.54,True
+ORD-0770,Accessories,Atlanta,121.91,False
+ORD-0771,Lighting,Atlanta,168.1,False
+ORD-0772,Home Decor,Chicago,135.61,False
+ORD-0773,Home Decor,Chicago,212.95,False
+ORD-0774,Accessories,Dallas,61.52,False
+ORD-0775,Home Decor,Atlanta,78.78,False
+ORD-0776,Home Decor,Chicago,88.55,False
+ORD-0777,Home Decor,Dallas,157.31,False
+ORD-0778,Home Decor,Dallas,26.65,False
+ORD-0779,Accessories,Chicago,48.88,True
+ORD-0780,Accessories,Dallas,76.39,False
+ORD-0781,Lighting,Atlanta,130.9,True
+ORD-0782,Accessories,Dallas,190.01,False
+ORD-0783,Accessories,Chicago,119.35,False
+ORD-0784,Accessories,Atlanta,124.13,False
+ORD-0785,Home Decor,Atlanta,168.68,False
+ORD-0786,Home Decor,Atlanta,195.37,False
+ORD-0787,Accessories,Chicago,174.62,False
+ORD-0788,Lighting,Dallas,122.25,False
+ORD-0789,Home Decor,Atlanta,89.73,False
+ORD-0790,Accessories,Chicago,21.64,False
+ORD-0791,Accessories,Dallas,158.68,False
+ORD-0792,Home Decor,Chicago,187.65,False
+ORD-0793,Lighting,Chicago,118.24,True
+ORD-0794,Accessories,Atlanta,127.31,False
+ORD-0795,Lighting,Atlanta,64.76,False
+ORD-0796,Home Decor,Atlanta,65.28,False
+ORD-0797,Lighting,Dallas,76.85,False
+ORD-0798,Lighting,Chicago,120.86,False
+ORD-0799,Home Decor,Atlanta,200.01,True
+ORD-0800,Home Decor,Dallas,112.39,False
+ORD-0801,Accessories,Dallas,162.42,False
+ORD-0802,Lighting,Atlanta,35.54,False
+ORD-0803,Home Decor,Atlanta,51.66,False
+ORD-0804,Home Decor,Chicago,144.46,False
+ORD-0805,Home Decor,Chicago,53.26,False
+ORD-0806,Home Decor,Atlanta,66.29,False
+ORD-0807,Home Decor,Dallas,97.2,False
+ORD-0808,Lighting,Dallas,69.02,True
+ORD-0809,Lighting,Atlanta,36.96,False
+ORD-0810,Home Decor,Atlanta,26.83,False
+ORD-0811,Home Decor,Dallas,213.86,False
+ORD-0812,Home Decor,Chicago,105.02,True
+ORD-0813,Lighting,Atlanta,232.56,False
+ORD-0814,Home Decor,Chicago,195.51,False
+ORD-0815,Accessories,Chicago,49.09,False
+ORD-0816,Accessories,Atlanta,136.98,False
+ORD-0817,Accessories,Atlanta,239.82,False
+ORD-0818,Lighting,Dallas,70.28,False
+ORD-0819,Lighting,Dallas,154.31,False
+ORD-0820,Lighting,Atlanta,61.3,False
+ORD-0821,Home Decor,Dallas,233.12,False
+ORD-0822,Home Decor,Chicago,177.21,True
+ORD-0823,Lighting,Chicago,88.88,False
+ORD-0824,Lighting,Dallas,72.34,False
+ORD-0825,Accessories,Atlanta,98.35,False
+ORD-0826,Home Decor,Dallas,51.96,False
+ORD-0827,Home Decor,Dallas,199.09,True
+ORD-0828,Accessories,Dallas,158.69,True
+ORD-0829,Accessories,Atlanta,44.99,False
+ORD-0830,Accessories,Dallas,26.17,False
+ORD-0831,Home Decor,Chicago,139.26,False
+ORD-0832,Home Decor,Dallas,239.67,False
+ORD-0833,Home Decor,Chicago,91.37,False
+ORD-0834,Home Decor,Atlanta,159.12,False
+ORD-0835,Home Decor,Atlanta,168.65,False
+ORD-0836,Lighting,Dallas,188.65,False
+ORD-0837,Lighting,Dallas,164.46,False
+ORD-0838,Lighting,Atlanta,248.92,False
+ORD-0839,Home Decor,Chicago,26.15,False
+ORD-0840,Accessories,Atlanta,77.64,False
+ORD-0841,Accessories,Chicago,238.5,False
+ORD-0842,Home Decor,Dallas,109.9,False
+ORD-0843,Home Decor,Atlanta,175.26,False
+ORD-0844,Home Decor,Dallas,90.91,False
+ORD-0845,Home Decor,Atlanta,41.02,False
+ORD-0846,Lighting,Chicago,172.75,False
+ORD-0847,Accessories,Chicago,234.9,False
+ORD-0848,Lighting,Dallas,35.18,False
+ORD-0849,Lighting,Atlanta,201.99,True
+ORD-0850,Accessories,Chicago,179.56,False
+ORD-0851,Lighting,Chicago,154.56,False
+ORD-0852,Lighting,Atlanta,91.04,False
+ORD-0853,Accessories,Dallas,28.72,False
+ORD-0854,Accessories,Atlanta,139.8,False
+ORD-0855,Lighting,Atlanta,231.07,False
+ORD-0856,Home Decor,Atlanta,34.86,False
+ORD-0857,Lighting,Chicago,67.01,True
+ORD-0858,Accessories,Chicago,89.71,False
+ORD-0859,Accessories,Dallas,128.26,False
+ORD-0860,Lighting,Atlanta,39.14,False
+ORD-0861,Lighting,Atlanta,130.59,False
+ORD-0862,Lighting,Chicago,113.05,False
+ORD-0863,Lighting,Dallas,108.51,False
+ORD-0864,Accessories,Chicago,132.38,False
+ORD-0865,Accessories,Dallas,165.12,False
+ORD-0866,Accessories,Chicago,158.49,False
+ORD-0867,Accessories,Chicago,227.23,False
+ORD-0868,Accessories,Chicago,223.93,False
+ORD-0869,Accessories,Dallas,207.27,False
+ORD-0870,Lighting,Atlanta,197.96,False
+ORD-0871,Lighting,Atlanta,135.6,False
+ORD-0872,Home Decor,Dallas,220.47,False
+ORD-0873,Lighting,Atlanta,74.0,True
+ORD-0874,Lighting,Atlanta,202.11,True
+ORD-0875,Lighting,Atlanta,98.91,False
+ORD-0876,Lighting,Chicago,125.09,False
+ORD-0877,Accessories,Dallas,207.46,False
+ORD-0878,Lighting,Dallas,23.82,False
+ORD-0879,Lighting,Chicago,100.12,False
+ORD-0880,Lighting,Atlanta,151.54,False
+ORD-0881,Accessories,Atlanta,127.36,False
+ORD-0882,Lighting,Chicago,248.47,False
+ORD-0883,Home Decor,Chicago,238.85,False
+ORD-0884,Accessories,Chicago,71.48,False
+ORD-0885,Accessories,Atlanta,200.57,False
+ORD-0886,Lighting,Chicago,104.58,True
+ORD-0887,Lighting,Dallas,203.21,True
+ORD-0888,Accessories,Atlanta,236.86,False
+ORD-0889,Home Decor,Dallas,135.55,True
+ORD-0890,Accessories,Chicago,106.64,False
+ORD-0891,Lighting,Chicago,61.17,False
+ORD-0892,Lighting,Atlanta,175.92,False
+ORD-0893,Lighting,Dallas,193.02,False
+ORD-0894,Accessories,Chicago,86.95,False
+ORD-0895,Home Decor,Chicago,176.01,False
+ORD-0896,Home Decor,Dallas,46.99,False
+ORD-0897,Accessories,Atlanta,111.23,False
+ORD-0898,Lighting,Atlanta,218.93,False
+ORD-0899,Accessories,Dallas,137.24,False
+ORD-0900,Home Decor,Atlanta,249.99,False
+ORD-0901,Accessories,Dallas,110.57,True
+ORD-0902,Accessories,Atlanta,193.19,False
+ORD-0903,Accessories,Chicago,49.63,False
+ORD-0904,Home Decor,Atlanta,103.62,False
+ORD-0905,Accessories,Chicago,122.33,True
+ORD-0906,Accessories,Dallas,208.55,False
+ORD-0907,Home Decor,Chicago,102.58,False
+ORD-0908,Home Decor,Atlanta,78.46,True
+ORD-0909,Lighting,Atlanta,149.64,False
+ORD-0910,Accessories,Atlanta,158.83,False
+ORD-0911,Home Decor,Dallas,219.84,True
+ORD-0912,Home Decor,Dallas,187.52,False
+ORD-0913,Lighting,Atlanta,226.21,False
+ORD-0914,Home Decor,Dallas,215.41,False
+ORD-0915,Lighting,Atlanta,186.85,True
+ORD-0916,Lighting,Atlanta,85.97,False
+ORD-0917,Lighting,Atlanta,91.93,False
+ORD-0918,Home Decor,Atlanta,147.46,False
+ORD-0919,Lighting,Chicago,142.45,False
+ORD-0920,Home Decor,Dallas,248.67,False
+ORD-0921,Accessories,Atlanta,60.21,True
+ORD-0922,Lighting,Chicago,77.45,False
+ORD-0923,Accessories,Chicago,232.3,False
+ORD-0924,Accessories,Atlanta,95.57,True
+ORD-0925,Lighting,Chicago,138.29,False
+ORD-0926,Home Decor,Dallas,118.52,False
+ORD-0927,Home Decor,Atlanta,102.62,True
+ORD-0928,Accessories,Chicago,173.23,False
+ORD-0929,Lighting,Atlanta,111.97,True
+ORD-0930,Accessories,Atlanta,135.0,False
+ORD-0931,Accessories,Chicago,84.91,False
+ORD-0932,Home Decor,Dallas,76.89,False
+ORD-0933,Lighting,Chicago,164.65,False
+ORD-0934,Home Decor,Chicago,65.92,False
+ORD-0935,Home Decor,Dallas,168.09,False
+ORD-0936,Lighting,Chicago,31.99,False
+ORD-0937,Accessories,Dallas,90.0,False
+ORD-0938,Home Decor,Atlanta,199.13,False
+ORD-0939,Accessories,Atlanta,190.8,False
+ORD-0940,Home Decor,Chicago,236.62,False
+ORD-0941,Accessories,Dallas,183.67,False
+ORD-0942,Accessories,Dallas,135.89,False
+ORD-0943,Home Decor,Chicago,179.57,False
+ORD-0944,Accessories,Dallas,109.76,False
+ORD-0945,Accessories,Dallas,185.73,True
+ORD-0946,Lighting,Dallas,236.67,False
+ORD-0947,Lighting,Chicago,99.92,False
+ORD-0948,Accessories,Dallas,246.61,False
+ORD-0949,Accessories,Chicago,245.12,False
+ORD-0950,Accessories,Chicago,67.42,False
+ORD-0951,Lighting,Chicago,119.8,False
+ORD-0952,Home Decor,Dallas,168.94,False
+ORD-0953,Home Decor,Dallas,229.1,False
+ORD-0954,Lighting,Chicago,211.02,True
+ORD-0955,Home Decor,Chicago,44.46,True
+ORD-0956,Accessories,Dallas,76.08,True
+ORD-0957,Accessories,Atlanta,223.89,False
+ORD-0958,Lighting,Chicago,177.42,False
+ORD-0959,Accessories,Atlanta,161.61,True
+ORD-0960,Home Decor,Dallas,176.27,False
+ORD-0961,Home Decor,Atlanta,104.9,False
+ORD-0962,Lighting,Atlanta,122.74,False
+ORD-0963,Lighting,Chicago,101.1,False
+ORD-0964,Lighting,Dallas,146.35,False
+ORD-0965,Accessories,Atlanta,198.62,False
+ORD-0966,Accessories,Chicago,240.25,False
+ORD-0967,Home Decor,Chicago,212.11,False
+ORD-0968,Accessories,Dallas,26.06,False
+ORD-0969,Lighting,Dallas,22.87,True
+ORD-0970,Lighting,Chicago,122.11,False
+ORD-0971,Accessories,Atlanta,111.17,True
+ORD-0972,Lighting,Atlanta,234.23,False
+ORD-0973,Lighting,Chicago,191.58,False
+ORD-0974,Accessories,Atlanta,57.91,False
+ORD-0975,Lighting,Atlanta,57.43,False
+ORD-0976,Home Decor,Chicago,39.56,True
+ORD-0977,Accessories,Atlanta,245.52,False
+ORD-0978,Lighting,Dallas,135.82,False
+ORD-0979,Accessories,Chicago,176.95,False
+ORD-0980,Home Decor,Atlanta,248.49,False
+ORD-0981,Accessories,Atlanta,102.87,False
+ORD-0982,Lighting,Chicago,164.39,False
+ORD-0983,Lighting,Chicago,92.16,True
+ORD-0984,Lighting,Chicago,245.05,False
+ORD-0985,Lighting,Atlanta,162.53,False
+ORD-0986,Accessories,Chicago,123.52,False
+ORD-0987,Accessories,Chicago,106.44,True
+ORD-0988,Accessories,Dallas,208.21,False
+ORD-0989,Home Decor,Chicago,98.76,True
+ORD-0990,Accessories,Dallas,69.1,False
+ORD-0991,Accessories,Chicago,69.09,False
+ORD-0992,Home Decor,Chicago,113.17,False
+ORD-0993,Lighting,Atlanta,118.56,False
+ORD-0994,Lighting,Chicago,229.9,False
+ORD-0995,Accessories,Dallas,172.73,False
+ORD-0996,Accessories,Atlanta,92.77,False
+ORD-0997,Accessories,Dallas,153.03,False
+ORD-0998,Home Decor,Chicago,239.05,False
+ORD-0999,Accessories,Atlanta,48.69,False
+ORD-1000,Lighting,Atlanta,60.44,False

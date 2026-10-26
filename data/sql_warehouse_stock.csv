@@ -1,0 +1,7 @@
+warehouse,stock_issue,orders,avg_packing_wait_hours,avg_fulfillment_hours,late_rate_pct
+Atlanta,0,269,12.9,28.1,0.0
+Atlanta,1,49,63.6,79.0,100.0
+Chicago,0,267,12.7,27.1,0.7
+Chicago,1,56,62.2,77.8,96.4
+Dallas,0,308,24.1,39.6,16.9
+Dallas,1,51,71.8,86.3,100.0
