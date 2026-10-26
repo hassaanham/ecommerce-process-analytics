@@ -7,6 +7,10 @@ An analysis of shipment delays using Python, SQL, and an interactive Streamlit d
 ![Ecommerce fulfillment dashboard](screenshots/dashboard.png)
 ![Ecommerce fulfillment dashboard](screenshots/dashboard(1).png)
 
+## Live Dashboard
+
+[Open the interactive dashboard](https://ecommerce-process-analytics-mufqyffufj6xnaus6gsx3b.streamlit.app/)
+
 ## Business Question
 
 Where do orders spend the most time, and which operational issues should be investigated to improve on time shipping?
